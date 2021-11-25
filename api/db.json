@@ -75,8 +75,8 @@
       "nbJours": 1,
       "tva": 20,
       "state": "OPTION",
-      "typePresta": "deae",
-      "client": "dead",
+      "typePresta": "Presta",
+      "client": "Coco",
       "comment": null,
       "id": 8
     }
